@@ -1,6 +1,6 @@
 # React App with Google Maps API
 
-this app was created with React and Google maps API. It featuers my favorite spots around town.
+this app was created with React and Google maps API. It features my favorite spots around town.
 
 ## Notes:
 * currently not optimized for moblile
