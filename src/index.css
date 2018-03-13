@@ -1,0 +1,45 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: "Roboto", sans-serif;
+}
+
+.sidebar {
+  display: flex;
+  flex-direction: column;
+  height: 100vh;
+}
+
+.sidebar-button,
+.sidebar-head {
+  background-color: #76c1ff;
+  border: solid black 0.5px;
+  height: 200px;
+  width: 200px;
+  color: white;
+  position: relative;
+}
+
+.sidebar-button h3,
+.sidebar-head h2 {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  height: 30%;
+  margin: auto;
+  text-align: center;
+}
+
+.sidebar-button:hover {
+  background-color: #48acfd;
+}
+
+.mainApp {
+  display: flex;
+}
+
+.map {
+  height: 100%;
+}
