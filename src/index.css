@@ -14,7 +14,7 @@ body {
 .sidebar-head {
   background-color: #76c1ff;
   border: solid black 0.5px;
-  height: 200px;
+  height: 100%;
   width: 200px;
   color: white;
   position: relative;
