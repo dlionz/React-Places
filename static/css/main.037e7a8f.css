@@ -1,2 +1,0 @@
-body{margin:0;padding:0;font-family:Roboto,sans-serif}.sidebar{display:-ms-flexbox;display:flex;-ms-flex-direction:column;flex-direction:column;height:100vh}.sidebar-button,.sidebar-head{background-color:#76c1ff;border:.5px solid #000;height:200px;width:200px;color:#fff;position:relative}.sidebar-button h3,.sidebar-head h2{position:absolute;top:0;bottom:0;left:0;right:0;height:30%;margin:auto;text-align:center}.sidebar-button:hover{background-color:#48acfd}.mainApp{display:-ms-flexbox;display:flex}.map{height:100%}
-/*# sourceMappingURL=main.037e7a8f.css.map*/
