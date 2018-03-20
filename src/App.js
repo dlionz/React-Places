@@ -6,7 +6,7 @@ class App extends Component {
   state = {
     eat: {
       title: "Eat",
-      desc: "Xin Jiang BBQ: Becuase nothing is better than chinese street food",
+      desc: "Xin Jiang BBQ: Because nothing is better than Chinese street food",
       lat: 29.7057,
       lng: -95.5465,
       isActive: false
